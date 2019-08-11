@@ -1,0 +1,131 @@
+body{
+
+  background-repeat: no-repeat;
+  background-size: cover;
+ opacity: 0.8;
+ filter: Alpha(opacity=50)
+}
+
+ul{
+  list-style-type:none;
+  padding:auto;
+  overflow:hidden;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  background-color: ;
+}
+
+li a:hover{
+  transition: 1s;
+  background-color: #99A3A4 ;
+}
+
+.manoj{
+  padding-top: 50px;
+  margin-left: 40px;
+  margin-right:50px;
+  margin-bottom: auto;
+  font-style: oblique;
+  font-family: pacifio;
+  font-size:20px;
+  font-weight: bold;
+
+}
+
+.mano{
+  margin-right:40px;
+}
+
+.mano img{
+  border-radius: 100px;
+  margin-left:90px;
+
+}
+
+.mano table,tr,td{
+  margin-left: 150px;
+  font-size:20px;
+  font-style: bold;
+  font-family: pacifio;
+
+}
+
+.man:hover{
+    transition: 1s;
+    background-color: #FDFEFE;
+
+  }
+
+.middle table,tr,td{
+  font-size:25px;
+  font-style: bold;
+  font-family: pacifio;
+  margin-left: 300px;
+}
+
+.percent{
+  width:40%;
+
+  background-color: transparent;
+  margin-left: 300px;
+}
+.skillbox{
+  box-sizing:border-box;
+  width:100%;
+  margin:20px 0;
+
+}
+.skillbox p{
+  color:;
+  text-transform: Upperase;
+  margin:0 0 10px;
+  padding:;
+  font-family:bols;
+  letter-spacing:1px;
+}
+.skillbox p:nth-child(2)
+{
+  float: right;
+  position: relative;
+  top:-25px;
+}
+.skill{
+  background: yellow;
+   padding:4px;
+   box-sizing:border-box;
+   border:1px solid red;
+   border-radius:2px;
+
+}
+.skill_level{
+   background: red;
+   width:100%;
+   height:10px;
+}
+.bottom li{
+  list-style-type: none;
+  float:none;
+  margin: 10px 10px;
+  display: inline-block;
+  font-size: 20px;
+  padding:20px 20px;
+  color:#fff;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  transition: .5s;
+
+}
+.bio{
+  margin-left: 250px;
+  font-size: 28px;
+}
